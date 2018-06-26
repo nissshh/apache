@@ -16,7 +16,7 @@ Set of command dor SSL cert generation, we will be usin openssl and not keytool 
 Export Variable for APR
 > export LD_LIBRARY_PATH='$LD_LIBRARY_PATH:/usr/local/apr/lib'
 
-####Biblio
+#### Biblio
 - Configuring APR native libraries and references in TC
 https://serverfault.com/questions/577616/using-https-between-apache-loadbalancer-and-backends
 - Resolve issues with SSL handshake between TC and WS 
